@@ -1,0 +1,10 @@
+Profesor, para poder ver los colores de asientos reservados en la matriz y que el programa corra bien 
+es necesario instalar un módulo de Python llamado colorama si no lo tiene ya instalado.
+
+Ejecutar en una terminal de consola uno o los dos siguientes comandos:
+
+# Para python 3
+python3 -m pip install colorama
+
+# Para python 2
+python -m pip install colorama
